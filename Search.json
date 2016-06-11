@@ -1,4 +1,4 @@
 GET /product/table/_search
 {
-	_source:true
+	"_source":true
 }
